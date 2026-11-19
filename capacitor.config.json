@@ -1,9 +1,5 @@
 {
-  "appId": "com.boss.aanya",
-  "appName": "Aanya AI",
-  "webDir": "dist",
-  "server": {
-    "url": "http://127.0.0.1:3000",
-    "cleartext": true
-  }
+  "appId": "com.aanya.ai",
+  "appName": "Aanya",
+  "webDir": "android/app/src/main/assets/public"
 }
