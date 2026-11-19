@@ -1,0 +1,9 @@
+{
+  "appId": "com.boss.aanya",
+  "appName": "Aanya AI",
+  "webDir": "dist",
+  "server": {
+    "url": "http://127.0.0.1:3000",
+    "cleartext": true
+  }
+}
